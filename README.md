@@ -43,6 +43,7 @@ Azure for Students es una iniciativa de Microsoft que te permite acceder gratuit
 🔹 Una vez verificada tu cuenta, podrás ingresar a  [portal azure](https://portal.azure.com/).
 
 *### **5. Recomendaciones Finales***
+
 ✔  **Usa una contraseña segura**  para tu cuenta Microsoft.  
 ✔  **Verifica que tu universidad esté en la lista de instituciones admitidas**.  
 ✔  **Monitorea tu crédito**  en el  [Portal de Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/ModernBillingMenuBlade/Overview).

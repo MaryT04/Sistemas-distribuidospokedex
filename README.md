@@ -39,4 +39,35 @@ Azure for Students es una iniciativa de Microsoft que te permite acceder gratuit
 ✔  **Usa una contraseña segura**  para tu cuenta Microsoft.  
 ✔  **Verifica que tu universidad esté en la lista de instituciones admitidas**.  
 ✔  **Monitorea tu crédito**  en el  [Portal de Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/ModernBillingMenuBlade/Overview).
+
+## **🐙GitHub**
+
+ es una **plataforma de desarrollo colaborativo** basada en la nube que utiliza el sistema de control de versiones **Git**,donde millones de desarrolladores almacenan, comparten y trabajan en proyectos de código abierto (_open source_) o privados.
+ ##  1. Requisitos para Usar GitHub
+ 
+
+ 1.  **📧 Cuenta en GitHub**  (gratis o Pro).  
+ 2. **🖥️ Git instalado**  en tu computadora ([Descargar Git](https://git-scm.com/)).  
+ 3.  Acceso SSH o Token de Acceso Personal (PAT)**  para autenticación.  
+ 4.   **📂 Repositorio creado**  para el proyecto (en este caso,  `pokedex`).
+## **2. Pasos para Configurar GitHub**
+
+### **🔹 Paso 1: Crear una Cuenta en GitHub**
+
+ 1. Entra a  [https://github.com](https://github.com/).  
+ 2. **Regístrate**  con tu correo electrónico.
+ 3.  **Verifica tu correo**  (GitHub enviará un enlace de confirmación).
+ 
+    
+
+    
+
+
+### **🔹 Paso 2: Crear un Repositorio**
+ 1. Haz clic en  **"New repository"**  (o  **"Crear repositorio"**).
+ 2. Ponle el nombre  **`pokedex`**  (como lo exige el proyecto).
+ 3.  Selecciona  **"Público"**  (si es privado, necesitarás GitHub Pro).
+ 4. **No inicialices con README**  (si ya tienes el código fuente).
+ 5. Haz clic en  **"Create repository"**.
+
  

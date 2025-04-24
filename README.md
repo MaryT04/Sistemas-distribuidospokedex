@@ -46,10 +46,10 @@ Azure for Students es una iniciativa de Microsoft que te permite acceder gratuit
  ##  1. Requisitos para Usar GitHub
  
 
- 1.  **📧 Cuenta en GitHub**  (gratis o Pro).  
- 2. **🖥️ Git instalado**  en tu computadora ([Descargar Git](https://git-scm.com/)).  
+ 1.  ** Cuenta en GitHub**  (gratis o Pro).  
+ 2. **🖥 Git instalado**  en tu computadora ([Descargar Git](https://git-scm.com/)).  
  3.  Acceso SSH o Token de Acceso Personal (PAT)**  para autenticación.  
- 4.   **📂 Repositorio creado**  para el proyecto (en este caso,  `pokedex`).
+ 4.   ** Repositorio creado**  para el proyecto (en este caso,  `pokedex`).
 ## **2. Pasos para Configurar GitHub**
 
 ### **🔹 Paso 1: Crear una Cuenta en GitHub**

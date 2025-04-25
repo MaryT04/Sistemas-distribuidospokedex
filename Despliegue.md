@@ -42,6 +42,7 @@ una vez creada la cuenta de azure
 -   Haz clic en  **"Revisar + crear"**  y luego en  **"Crear"**.
 
 **Paso 2:  **Hacer Fork del Repositorio Original****
+
  ***1.* *Clonar el repositorio de GitHub***:Accede al repositorio original de la Pokedex
  
   ***2. Haz clic en el botón "Fork"*** (esquina superior derecha)

@@ -16,6 +16,7 @@ Desplegar la **PokeDex** en un entorno cloud público (**Azure**) de manera segu
 
 ## **🚀Paso a paso para desplegar en Azure**
 una vez creada la cuenta de azure
+
 **Paso 1: Configuración del entorno de Azure:** 
 ***1. Crear un grupo de recursos:***
  -    En el portal, busca  ***"Grupos de recursos"***  y haz clic en  **"+ *Crear*"**.

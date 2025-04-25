@@ -1,4 +1,4 @@
-🌍CONTEXTO DE PROYECTO**
+**🌍CONTEXTO DE PROYECTO**
 
 La **PokeDex** es una aplicación desarrollada por **Pueblo Paleta Inc.** que permite a los usuarios explorar información detallada sobre diferentes especies de Pokémon, incluyendo sus características, habilidades, estadísticas y evoluciones. Esta herramienta está diseñada para ser accesible desde cualquier dispositivo, ofreciendo una experiencia interactiva y visualmente atractiva.
 

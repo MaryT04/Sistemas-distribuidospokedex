@@ -136,7 +136,7 @@ Se añadieron encabezados HTTP clave para mejorar la seguridad. El `Content-Secu
     
     -   Las herramientas de desarrollador del navegador (pestaña _Network_ > _Headers_)
     -   
-## *****RESULTADOS DE SEGURIDAD🔐***
+## ***RESULTADOS DE SEGURIDAD🔐***
 
    - **La aplicación ahora incluye encabezados de seguridad críticos.**
     

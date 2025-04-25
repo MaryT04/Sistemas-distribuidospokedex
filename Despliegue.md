@@ -15,7 +15,6 @@ Desplegar la **PokeDex** en un entorno cloud público (**Azure**) de manera segu
 *Luego de conocer que es pokedex, el objetivo principal y algunos de los requisitos necesarios para llevar a cabo la realizacion del proyecto.Miremos los pasos a seguir para culminar con éxito*
 
 ## **🚀Paso a paso para desplegar en Azure**
-----------
 
 ### *1. Hacer Fork del Código Fuente Original.*
 

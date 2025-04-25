@@ -7,8 +7,8 @@ La **PokeDex** es una aplicación desarrollada por **Pueblo Paleta Inc.** que pe
 Desplegar la **PokeDex** en un entorno cloud público (**Azure**) de manera segura, escalable y accesible.
 
 **🔧 Requisitos Previos**
- 1. cuenta de azure
- 2. cuenta de GitHub 
- 3. codigo fuente de pokedex
+ 1. cuenta de azure.
+ 2. cuenta de GitHub.
+ 3. codigo fuente de pokedex.
 
  

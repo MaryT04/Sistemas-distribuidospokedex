@@ -71,6 +71,7 @@ Ruta específica del proyecto dentro del repositorio:
 -   En "Plan de App Service", selecciona el plan gratuito (F1).
     
 -   Haz clic en **Revisar y crear** > **Crear**.
+
 ***4. Configurar el Despliegue desde GitHub  ⚙️🚀***
 
 1.  Una vez creada la app, ve al recurso `pokemon-mtg` desde el portal.

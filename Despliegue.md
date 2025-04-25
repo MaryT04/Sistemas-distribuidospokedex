@@ -106,7 +106,9 @@ Ruta específica del proyecto dentro del repositorio:
 #### Opción usada: `staticwebapp.config.json` **(aplicable para apps estáticas o configuraciones personalizadas en Azure)**
 
 -   Se creó un archivo llamado `staticwebapp.config.json` en la raíz del proyecto.
-Este archivo contiene directivas de encabezados HTTP a nivel global y se ve así: 
+Este archivo contiene directivas de encabezados HTTP a nivel global y se ve así:
+
+
 **{*
   "globalHeaders": {
     "Content-Security-Policy": "default-src 'self' https://pokeapi.co; connect-src *; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com;",

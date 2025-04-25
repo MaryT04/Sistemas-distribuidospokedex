@@ -151,7 +151,7 @@ Se añadieron encabezados HTTP clave para mejorar la seguridad. El `Content-Secu
 -   El sitio cumple con estándares básicos de seguridad según el escaneo de SecurityHeaders.
   
 
-*******CONCLUSION CASO DE ESTUDIO POKEDEX**🔚*** 
-El proyecto logró desplegar exitosamente la aplicación PokeDex en Azure, integrando buenas prácticas de seguridad y automatización mediante GitHub. Se mejoró la calificación de seguridad y se garantizó el acceso público, cumpliendo con los requisitos técnicos del caso de uso.**
+*****CONCLUSION CASO DE ESTUDIO POKEDEX**🔚*** 
 
+**El proyecto logró desplegar exitosamente la aplicación PokeDex en Azure, integrando buenas prácticas de seguridad y automatización mediante GitHub. Se mejoró la calificación de seguridad y se garantizó el acceso público, cumpliendo con los requisitos técnicos del caso de uso.**
    
